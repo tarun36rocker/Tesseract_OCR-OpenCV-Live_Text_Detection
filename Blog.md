@@ -39,7 +39,7 @@
    * Line 20 draws a rectangle/boxes over the frame denoting the presence of the words
    * Line 22 adds the text of which word was read on the frame
    
-   Now lets move on to the main 'while' loop that runs the whole function!
+    Now lets move on to the main 'while' loop that runs the whole function!
    ![alt text](https://github.com/tarun36rocker/pictures/blob/main/ocr-6.png)
    * Line 27 gets the frames from webcam through the 'cap' ( capture ) instance that was defined earlier
    * Line 29 passes the frames to the text detection function
@@ -47,7 +47,7 @@
    * Line 32 waits for escape key to escape from floating window that was showing us the results
    * Finally Lines 37 and 38 releases the capture instance and closes the cv2 usage
    
-  Lets now have a look at our results !
+    Lets now have a look at our results !
   
   ![alt text](https://github.com/tarun36rocker/pictures/blob/main/ocr-1.png)
   
