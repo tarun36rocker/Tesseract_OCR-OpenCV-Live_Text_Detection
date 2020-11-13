@@ -48,6 +48,7 @@
    * Finally Lines 37 and 38 releases the capture instance and closes the cv2 usage
    
   Lets now have a look at our results !
+  
   ![alt text](https://github.com/tarun36rocker/pictures/blob/main/ocr-1.png)
   
   Looks like computers are able to read text like humans after all ! 
