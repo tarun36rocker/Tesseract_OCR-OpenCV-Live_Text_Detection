@@ -2,7 +2,7 @@
     by Tarun Krishnan
  Follow me on
    * Linkedin : https://www.linkedin.com/in/tarunkrishnan2000/
-   * Github : https://github.com/tarun36rocker?tab=repositories
+   * Github : https://github.com/tarun36rocker
    -------------------------------------------------------------
  Now on to This Amazing and Simple Project that I made !
       
